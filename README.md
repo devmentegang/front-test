@@ -8,6 +8,7 @@
 5. Ingresar a `http://localhost:4200` para ver el sitio de pruebas.
 ## Requerimientos
 En este repositorio encontrarás un proyecto base Angular con elementos muy básicos. Dentro de `AppComponent` se encuentra una variable que contiene un listado de tareas. Debes realizar las modificaciones necesarias para obtener los siguientes resultados:
+![reference](/imagen-html.jpg)
 - [ ] Cambiar el listado ordenado por una tabla HTML.
 - [ ] Agregar la opción para poder agregar nuevas tareas al listado, cada una con su título y duración en minutos.
 - [ ] Agregar la opción para eliminar cualquier tarea del listado.
