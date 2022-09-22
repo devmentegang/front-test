@@ -16,3 +16,5 @@ En este repositorio encontrarás un proyecto base Angular con elementos muy bás
 - Se calificará que se cumplan los requerimientos solicitados.
 - Se favorecerá al código legible, comentado y que siga buenas prácticas de programación.
 - Concentrarse únicamente en el cumplimiento de los requerimientos. Se ignorará el aspecto gráfico de la aplicación.
+
+Devmente 🙉
